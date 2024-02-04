@@ -6,7 +6,7 @@ This linear programming project was developed for the class of Analysis and Synt
 
 ## Objective
 
-Calculate the **maximum profit** that can be extracted from the production of toys and packages of toys given some additional constraints.
+Calculate the **maximum profit** that can be extracted from the production of toys and packs of toys given some additional constraints.
 
 - Refer to the file `p3.pdf` for the project's instructions and details.
 - Refer to the file `relatorio_ubiquity_inc.pdf` for the full report on the solution's time complexity and description.
