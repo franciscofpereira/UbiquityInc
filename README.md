@@ -23,7 +23,7 @@ To compile `gen_ubiquity.cpp`, use:
 
 To run `gen_ubiquity.cpp` use:
 > **./gen_ubiquity T P Tcmin Tcmax Tlmax Pok seed > testfile**
->Where:
+Where:
 >- T is the number of toys
 >- P is the number of packs of toys
 >- Tcmin is the toy's minimum capacity
