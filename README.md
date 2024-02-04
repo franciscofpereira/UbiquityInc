@@ -1,7 +1,5 @@
 # UbiquityInc
 
-# TugaNet
-
 ## Description
 
 This linear programming project was developed for the class of Analysis and Synthesis of Algorithms using the PuLP library in Python.
