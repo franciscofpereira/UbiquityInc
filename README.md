@@ -25,11 +25,11 @@ To run `gen_ubiquity.cpp` use:
 > **./gen_ubiquity T P Tcmin Tcmax Tlmax Pok seed > testfile**
 >Where:
 >- T is the number of toys
->- P is the number of packages of toys
+>- P is the number of packs of toys
 >- Tcmin is the toy's minimum capacity
 >- Tcmax is the toy's maximum capacity
 >- Tlmax is the maximum toy profit
->- Pok is the percentage of valid packages
+>- Pok is the percentage of valid packs
 >- seed is a random seed generator (optional argument)
 
 
