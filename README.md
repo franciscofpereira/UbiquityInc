@@ -15,7 +15,7 @@ Calculate the **maximum profit** that can be extracted from the production of to
 
 To run `proj3.py` use:
 ```text
-python3 yourprogram.py < input_file
+python3 proj3.py < input_file
 ```
 **Unit Tests:** To generate unit tests you can use `gen_ubiquity.cpp` under the `generator` directory.
 
